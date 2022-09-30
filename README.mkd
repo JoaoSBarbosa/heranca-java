@@ -8,13 +8,13 @@
 
 - YouTube: [Canal Curso em Vídeo](https://www.youtube.com/watch?v=19IGAeoFKlU&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=21) 
 
-  <img src="https://media.tenor.com/qfJQ5i5NUxIAAAAC/youtube-subscribe.gif" alt="img" align = "left" style="zoom:21%;" />
+
 
   
 
 - site: [Curso em Vídeo](https://www.cursoemvideo.com/curso/java-poo/)
 
-  <img src="https://media.tenor.com/7LAB1WbMURAAAAAC/website.gif" alt="img" align = "left" style="zoom:13%;" />
+ 
 
   
 
