@@ -1,0 +1,76 @@
+### Algoritmo Java para estudos de herança ☕
+
+## 
+
+
+
+### Conteúdo aprendido através do curso POO do professor Guanabara, disponível:
+
+- YouTube: [Canal Curso em Vídeo](https://www.youtube.com/watch?v=19IGAeoFKlU&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=21) 
+
+  <img src="https://media.tenor.com/qfJQ5i5NUxIAAAAC/youtube-subscribe.gif" alt="img" align = "left" style="zoom:21%;" />
+
+  
+
+- site: [Curso em Vídeo](https://www.cursoemvideo.com/curso/java-poo/)
+
+  <img src="https://media.tenor.com/7LAB1WbMURAAAAAC/website.gif" alt="img" align = "left" style="zoom:13%;" />
+
+  
+
+  ------
+
+  
+
+### Esse estudo têm dois pilares de Orientação a Objetos: Encapsulamento e Herança.
+
+Foi criado um classe mão (superclasse) e três classes filhas(subclasse) para explorar mais as funcionalidades da herança.
+
+- Super Classe
+
+​		public class Pessoa{
+
+​                -nome
+
+​                -idade
+
+​                -sexo 
+
+​                +fazerAniversaio()
+
+- Classes Filhas
+
+
+
+​			public class Aluno extends Pessoa {
+
+​                 	-matricula
+
+​					 -curso
+
+​				 	+cancelarMatricula()
+
+​     		}
+
+​			 public class Professor extends Pessoa {
+
+​                 	-especialidade					 
+
+​					 -salario
+
+​				 	+receberAumento(aumento)
+
+​     		 }
+
+​			  public class Funcionario extends Pessoa {
+
+​                 	-setor
+
+​					 -trabalhando
+
+​				 	+mudarTrabalho()
+
+​     		}
+
+
+
